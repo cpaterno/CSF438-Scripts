@@ -1,0 +1,11 @@
+drwxr-xr-x  0  block
+drwxr-xr-x  0  bus
+drwxr-xr-x  0  class
+drwxr-xr-x  0  dev
+drwxr-xr-x  0  devices
+drwxr-xr-x  0  firmware
+drwxr-xr-x  0  fs
+drwxr-xr-x  0  hypervisor
+drwxr-xr-x  0  kernel
+drwxr-xr-x  0  module
+drwxr-xr-x  0  power
