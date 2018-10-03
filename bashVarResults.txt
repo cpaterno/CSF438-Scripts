@@ -1,0 +1,13 @@
+drwxr-xr-x  4096  backups
+drwxr-xr-x  4096  cache
+drwxr-xr-x  4096  lib
+drwxrwsr-x  4096  local
+lrwxrwxrwx  9     lock
+drwxr-xr-x  4096  log
+drwxrwsr-x  4096  mail
+drwxr-xr-x  4096  opt
+lrwxrwxrwx  4     run
+drwxr-xr-x  4096  spool
+drwxrwxrwt  4096  tmp
+drwxr-xr-x  4096  unicornscan
+drwxr-xr-x  4096  www
